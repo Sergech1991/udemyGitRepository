@@ -4,5 +4,7 @@ body {
     font-weight: bold;
     background: #ff00ff;
     font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
